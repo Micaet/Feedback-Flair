@@ -1,0 +1,4 @@
+1) cel biznesowy
+2) oversampling
+3) miara sukcesu
+4) komentarze
