@@ -21,12 +21,15 @@ Each stage has been validated by an independent group, and their feedback has be
 The specific tools, libraries, and frameworks used throughout the project are documented in a separate file called requirements.txt.
 
 ## File order
-To recreate our process the files should be run in the following order: <br>
+To recreate our process the files should be run in the following order: 
+
 **Stage 1**
 1. **budowa_krok_1_6_preprocessing.ipynb**
-2. **budowa_krok_1_6_eda.ipynb**
+2. **budowa_krok_1_6_eda.ipynb** 
+
 **Stage 2**
 1. **not yet complete**
+
 **Stage 3**
 1. **not yet complete**
 
