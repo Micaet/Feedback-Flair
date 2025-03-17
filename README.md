@@ -24,11 +24,11 @@ The specific tools, libraries, and frameworks used throughout the project are do
 To recreate our process the files should be run in the following order: <br>
 **Stage 1**
 1. **budowa_krok_1_6_preprocessing.ipynb**
-2. **budowa_krok_1_6_eda.ipynb** <br>
-**Stage 2** <br>
-not yet complete
-**Stage 3** <br>
-not yet complete
+2. **budowa_krok_1_6_eda.ipynb**
+**Stage 2**
+1. **not yet complete**
+**Stage 3**
+1. **not yet complete**
 
 ## Dataset
 The dataset used for this project is a collection of ChatGPT user reviews and ratings. It can be found at the following link:
