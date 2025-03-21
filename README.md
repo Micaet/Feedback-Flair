@@ -1,7 +1,7 @@
 # First Project for the Introduction to Machine Learning course at the Warsaw University of Technology
 
 ## Project Overview
-The goal of this project is to develop a machine learning model capable of correctly classifying user ratings (1-5) given to ChatGPT based on the accompanying comment. The Auc-roc score has been chosen as the measure of success for our project.
+The goal of this project is to develop a machine learning model capable of correctly classifying user ratings (1-5) given to ChatGPT based on the accompanying comment. The AUC-ROC score has been chosen as the measure of success for our project.
 
 ## Business Objective
 While ChatGPT reviews are used as a sample dataset, the model can be generalised to some
