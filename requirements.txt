@@ -10,3 +10,4 @@ scikit-learn==1.6.1
 spacy==3.8.2
 swifter==1.4.0
 symspellpy==6.9.02
+xgboost==2.1.4

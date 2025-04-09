@@ -1,0 +1,5 @@
+# Ignore training and validation data files
+train_cleaned.csv
+train_final.csv
+train.csv
+val.csv

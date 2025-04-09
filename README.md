@@ -1,19 +1,22 @@
 # First Project for the Introduction to Machine Learning course at the Warsaw University of Technology
 
 ## Project Overview
-The goal of this project is to develop a machine learning model capable of correctly classifying user ratings (1-5) given to ChatGPT based on the accompanying comment. The AUC-ROC score has been chosen as the measure of success for our project.
+The goal of this project is to develop a machine learning model capable of correctly classifying user ratings (positive, neutral, negative) given to ChatGPT based on the accompanying comment. 
 
 ## Business Objective
 While ChatGPT reviews are used as a sample dataset, the model can be generalised to some
-arbitrary product P. The model could be used to analyse reviews and comments left by P users in order to 
-assess the sentiment regarding new updates, features, changes etc. For example, the model could be used
+arbitrary product $P$. The model could be used to analyse reviews and comments left by $P$ users in order to 
+assess the sentiment regarding new updates, features, changes, etc. Primarily, the model could be used
 to identify negative comments, hence highlighting areas in need of improvement
 and helping businesses enhance their products and customer satisfaction.
+
+## Assessment
+The $F_{2}$ score has been chosen as the evaluation metric for our project because the main goal of the model is to accurately identify negative reviews. In this context, missing a negative review is considered more detrimental than incorrectly flagging a non-negative review as negative. The $F_{2}$ score emphasizes recall more than precision, making it a suitable choice for this use case.
 
 ## Stages
 The project is divided into three stages, each of which is elaborately described in the corresponding notebook:
 1. **Data Preprocessing, Cleaning and Exploration (complete)**
-2. **Feature Engineering and Preliminary Modeling (not yet complete)**
+2. **Feature Engineering and Preliminary Modeling (complete)**
 3. **Final Models, Presentation of Results, and Report (not yet complete)**
 
 Each stage has been validated by an independent group, and their feedback has been incorporated as improvements.
@@ -28,7 +31,8 @@ To recreate our process the files should be run in the following order:
 2. **budowa_krok_1_6_eda.ipynb** 
 
 **Stage 2**
-1. **not yet complete**
+1. **budowa_krok_2_6_feature_engineering.ipynb**
+2. **budowa_krok_2_6_preliminary_modelling.ipynb**
 
 **Stage 3**
 1. **not yet complete**
