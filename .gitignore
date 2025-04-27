@@ -3,3 +3,4 @@ train_cleaned.csv
 train_final.csv
 train.csv
 val.csv
+__pycache__/
