@@ -1,0 +1,19 @@
+=== TEST SET RESULTS ===
+F-beta score per class on test: [0.62832476 0.51401326 0.95210615]
+Precision per class on test: [0.72667675 0.67635807 0.91614298]
+Recall per class on test: [0.60776044 0.48491498 0.96154249]
+AUC-ROC per class on test: [0.94689584 0.92632695 0.93581079]
+Confusion matrix (test):
+[[ 1441   197   733]
+ [   89  1768  1789]
+ [  453   649 27553]]
+
+=== TRAIN SET RESULTS ===
+F-beta score per class on train: [0.72377806 0.59872395 0.96350469]
+Precision per class on train: [0.82640377 0.77940944 0.92804212]
+Recall per class on train: [0.70198434 0.56592525 0.97279789]
+AUC-ROC per class on train: [0.98320298 0.9644435  0.96462308]
+Confusion matrix (train):
+[[ 3856   270  1367]
+ [  123  4936  3663]
+ [  687  1127 64872]]
