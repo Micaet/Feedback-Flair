@@ -1,4 +1,4 @@
-# Review Flair
+# Feedback Flair
 
 ## Project Overview
 The goal of this project is to develop a machine learning model capable of correctly classifying user ratings (positive, neutral, negative) given to ChatGPT based on the accompanying comment. 
